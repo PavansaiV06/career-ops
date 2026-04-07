@@ -1,36 +1,23 @@
-# Clinical Research Coordinator - Sample Application
-
-## Company
-(Add company name)
-
 ## Job Description
 - Coordinate clinical trial activities and patient visits
 - Support screening, enrollment, and documentation
 - Maintain study records and ensure protocol compliance
-- Work with investigators, patients, and study teams
+- Work with investigators, patients, and research teams
 
-## Tailored Resume Output
-- Coordinated patient workflows, documentation, and follow-up activities across multi-specialty outpatient settings
-- Supported provider workflows, chart readiness, and clinical documentation accuracy
-- Managed scheduling, intake, referrals, and procedure-related documentation
-- Assisted with structured workflows that support compliance, accuracy, and continuity of care
+- ## Tailored Resume Output
+- Coordinated patient intake, documentation, and follow-up workflows across multi-specialty outpatient settings
+- Supported provider documentation, chart readiness, and clinical workflow efficiency
+- Managed scheduling, referrals, and procedure-related documentation
+- Assisted in maintaining structured workflows to ensure compliance and accurate clinical documentation
 
-## Tailored Cover Letter Output
-(Paste generated cover letter here)
-
-## Keywords Targeted
+- ## Keywords Targeted
 - Clinical Research
 - Patient Coordination
-- Study Documentation
+- Documentation
 - Protocol Compliance
 - Screening and Enrollment
+- EHR Systems
 - Clinical Workflows
-- Healthcare Operations
 
-## Approach
-Used:
-- prompts/resume_prompt.md
-- prompts/cover_letter_prompt.md
-- data/skills.md
-
-Tailored outputs based on job requirements.
+- ## Tailored Cover Letter Output
+This role aligns well with my experience in healthcare operations and patient workflow coordination. I have supported multi-specialty clinical environments, managing documentation, scheduling, and follow-ups while ensuring accuracy and compliance. My experience working with EHR systems and coordinating care processes allows me to effectively support clinical research activities and patient engagement.

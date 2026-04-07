@@ -1,7 +1,7 @@
 # Claims Data Analyst - Sample Application
 
 ## Company
-(Add company name)
+Healthcare Organization
 
 ## Job Description
 - Analyze claims data and identify trends
@@ -12,11 +12,11 @@
 ## Tailored Resume Output
 - Performed claims validation using ICD-10 and CPT coding to improve billing accuracy and reduce denials
 - Reviewed charge entries using Claims Inspector and Charge Review workflows in AdvancedMD
-- Analyzed payer requirements and supported eligibility verification and authorization workflows
-- Supported revenue cycle operations including documentation readiness, coding, and billing coordination
+- Supported eligibility verification and prior authorization workflows to ensure accurate claim submission
+- Assisted in revenue cycle operations by improving documentation readiness and coding accuracy
 
 ## Tailored Cover Letter Output
-(Paste generated cover letter here)
+This role aligns closely with my experience in healthcare operations and claims analysis. I have hands-on experience working with ICD-10 and CPT coding, validating claims, and supporting revenue cycle workflows using AdvancedMD. In my current role, I regularly review charge entries, ensure documentation accuracy, and collaborate with clinical and billing teams to reduce denials and improve claim acceptance rates.
 
 ## Keywords Targeted
 - Claims Analysis

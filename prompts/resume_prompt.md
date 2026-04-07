@@ -1,8 +1,7 @@
+Use the skills listed in data/skills.md and tailor them to match the job description.
+
 # Step 1: Analyze Your Resume Against the Job Description
 
-Paste this prompt into ChatGPT:
-
-```
 I'm applying for [JOB TITLE] at [COMPANY NAME]. Please analyze my resume against this job description and provide:
 
 1. Match score (1-10) with detailed reasoning
@@ -18,7 +17,9 @@ I'm applying for [JOB TITLE] at [COMPANY NAME]. Please analyze my resume against
 [PASTE THE COMPLETE JOB DESCRIPTION HERE]
 
 Be brutally honest about gaps and rank keywords by importance for ATS systems.
+
 ```
+
 
 Step 2: Rewrite Your Experience Section Using ATS-Optimized Language
 
